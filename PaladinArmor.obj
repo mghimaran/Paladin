@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib PaladinArmor.mtl
+
+# torso
+
+g torso
+usemtl Material.000001
+
