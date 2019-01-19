@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib PaladinHelmet2.mtl
+
+# helmet
+
+g helmet
+usemtl Material.000001
+
